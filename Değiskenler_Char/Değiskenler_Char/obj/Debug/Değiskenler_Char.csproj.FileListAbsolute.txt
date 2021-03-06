@@ -1,0 +1,9 @@
+C:\Users\merto\Desktop\Csproject\Değiskenler_Char\Değiskenler_Char\bin\Debug\Değiskenler_Char.exe.config
+C:\Users\merto\Desktop\Csproject\Değiskenler_Char\Değiskenler_Char\bin\Debug\Değiskenler_Char.exe
+C:\Users\merto\Desktop\Csproject\Değiskenler_Char\Değiskenler_Char\bin\Debug\Değiskenler_Char.pdb
+C:\Users\merto\Desktop\Csproject\Değiskenler_Char\Değiskenler_Char\obj\Debug\Değiskenler_Char.Form1.resources
+C:\Users\merto\Desktop\Csproject\Değiskenler_Char\Değiskenler_Char\obj\Debug\Değiskenler_Char.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Değiskenler_Char\Değiskenler_Char\obj\Debug\Değiskenler_Char.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Değiskenler_Char\Değiskenler_Char\obj\Debug\Değiskenler_Char.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Değiskenler_Char\Değiskenler_Char\obj\Debug\Değiskenler_Char.exe
+C:\Users\merto\Desktop\Csproject\Değiskenler_Char\Değiskenler_Char\obj\Debug\Değiskenler_Char.pdb

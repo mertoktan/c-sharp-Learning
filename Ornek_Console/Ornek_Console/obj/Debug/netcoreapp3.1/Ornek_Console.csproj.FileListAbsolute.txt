@@ -1,0 +1,13 @@
+C:\Users\merto\Desktop\Csproject\Ornek_Console\Ornek_Console\bin\Debug\netcoreapp3.1\Ornek_Console.exe
+C:\Users\merto\Desktop\Csproject\Ornek_Console\Ornek_Console\bin\Debug\netcoreapp3.1\Ornek_Console.deps.json
+C:\Users\merto\Desktop\Csproject\Ornek_Console\Ornek_Console\bin\Debug\netcoreapp3.1\Ornek_Console.runtimeconfig.json
+C:\Users\merto\Desktop\Csproject\Ornek_Console\Ornek_Console\bin\Debug\netcoreapp3.1\Ornek_Console.runtimeconfig.dev.json
+C:\Users\merto\Desktop\Csproject\Ornek_Console\Ornek_Console\bin\Debug\netcoreapp3.1\Ornek_Console.dll
+C:\Users\merto\Desktop\Csproject\Ornek_Console\Ornek_Console\bin\Debug\netcoreapp3.1\Ornek_Console.pdb
+C:\Users\merto\Desktop\Csproject\Ornek_Console\Ornek_Console\obj\Debug\netcoreapp3.1\Ornek_Console.csprojAssemblyReference.cache
+C:\Users\merto\Desktop\Csproject\Ornek_Console\Ornek_Console\obj\Debug\netcoreapp3.1\Ornek_Console.AssemblyInfoInputs.cache
+C:\Users\merto\Desktop\Csproject\Ornek_Console\Ornek_Console\obj\Debug\netcoreapp3.1\Ornek_Console.AssemblyInfo.cs
+C:\Users\merto\Desktop\Csproject\Ornek_Console\Ornek_Console\obj\Debug\netcoreapp3.1\Ornek_Console.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Ornek_Console\Ornek_Console\obj\Debug\netcoreapp3.1\Ornek_Console.dll
+C:\Users\merto\Desktop\Csproject\Ornek_Console\Ornek_Console\obj\Debug\netcoreapp3.1\Ornek_Console.pdb
+C:\Users\merto\Desktop\Csproject\Ornek_Console\Ornek_Console\obj\Debug\netcoreapp3.1\Ornek_Console.genruntimeconfig.cache

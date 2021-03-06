@@ -1,0 +1,10 @@
+C:\Users\merto\Desktop\Csproject\Metin_Belgesi_Kaydet\Metin_Belgesi_Kaydet\bin\Debug\Metin_Belgesi_Kaydet.exe.config
+C:\Users\merto\Desktop\Csproject\Metin_Belgesi_Kaydet\Metin_Belgesi_Kaydet\bin\Debug\Metin_Belgesi_Kaydet.exe
+C:\Users\merto\Desktop\Csproject\Metin_Belgesi_Kaydet\Metin_Belgesi_Kaydet\bin\Debug\Metin_Belgesi_Kaydet.pdb
+C:\Users\merto\Desktop\Csproject\Metin_Belgesi_Kaydet\Metin_Belgesi_Kaydet\obj\Debug\Metin_Belgesi_Kaydet.csprojAssemblyReference.cache
+C:\Users\merto\Desktop\Csproject\Metin_Belgesi_Kaydet\Metin_Belgesi_Kaydet\obj\Debug\Metin_Belgesi_Kaydet.Form1.resources
+C:\Users\merto\Desktop\Csproject\Metin_Belgesi_Kaydet\Metin_Belgesi_Kaydet\obj\Debug\Metin_Belgesi_Kaydet.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Metin_Belgesi_Kaydet\Metin_Belgesi_Kaydet\obj\Debug\Metin_Belgesi_Kaydet.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Metin_Belgesi_Kaydet\Metin_Belgesi_Kaydet\obj\Debug\Metin_Belgesi_Kaydet.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Metin_Belgesi_Kaydet\Metin_Belgesi_Kaydet\obj\Debug\Metin_Belgesi_Kaydet.exe
+C:\Users\merto\Desktop\Csproject\Metin_Belgesi_Kaydet\Metin_Belgesi_Kaydet\obj\Debug\Metin_Belgesi_Kaydet.pdb

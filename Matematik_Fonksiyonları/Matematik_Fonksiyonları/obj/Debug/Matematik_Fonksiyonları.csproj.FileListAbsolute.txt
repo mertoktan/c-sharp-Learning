@@ -1,0 +1,9 @@
+C:\Users\merto\Desktop\Csproject\Matematik_Fonksiyonları\Matematik_Fonksiyonları\bin\Debug\Matematik_Fonksiyonları.exe.config
+C:\Users\merto\Desktop\Csproject\Matematik_Fonksiyonları\Matematik_Fonksiyonları\bin\Debug\Matematik_Fonksiyonları.exe
+C:\Users\merto\Desktop\Csproject\Matematik_Fonksiyonları\Matematik_Fonksiyonları\bin\Debug\Matematik_Fonksiyonları.pdb
+C:\Users\merto\Desktop\Csproject\Matematik_Fonksiyonları\Matematik_Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.Form1.resources
+C:\Users\merto\Desktop\Csproject\Matematik_Fonksiyonları\Matematik_Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Matematik_Fonksiyonları\Matematik_Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Matematik_Fonksiyonları\Matematik_Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Matematik_Fonksiyonları\Matematik_Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.exe
+C:\Users\merto\Desktop\Csproject\Matematik_Fonksiyonları\Matematik_Fonksiyonları\obj\Debug\Matematik_Fonksiyonları.pdb

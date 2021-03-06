@@ -1,0 +1,10 @@
+C:\Users\merto\Desktop\Csproject\Donguler1\Donguler1\bin\Debug\Donguler1.exe.config
+C:\Users\merto\Desktop\Csproject\Donguler1\Donguler1\bin\Debug\Donguler1.exe
+C:\Users\merto\Desktop\Csproject\Donguler1\Donguler1\bin\Debug\Donguler1.pdb
+C:\Users\merto\Desktop\Csproject\Donguler1\Donguler1\obj\Debug\Donguler1.csprojAssemblyReference.cache
+C:\Users\merto\Desktop\Csproject\Donguler1\Donguler1\obj\Debug\Donguler1.Form1.resources
+C:\Users\merto\Desktop\Csproject\Donguler1\Donguler1\obj\Debug\Donguler1.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Donguler1\Donguler1\obj\Debug\Donguler1.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Donguler1\Donguler1\obj\Debug\Donguler1.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Donguler1\Donguler1\obj\Debug\Donguler1.exe
+C:\Users\merto\Desktop\Csproject\Donguler1\Donguler1\obj\Debug\Donguler1.pdb

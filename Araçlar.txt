@@ -1,0 +1,13 @@
+Button
+Label
+TextBox
+ComboBox
+ListBox
+MaskedTextBox
+PictureBox
+DateTimePicker
+RichTextBox
+GroupBox
+Panel
+RadioButton
+CheckBox

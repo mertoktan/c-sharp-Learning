@@ -1,0 +1,10 @@
+C:\Users\merto\Desktop\Csproject\Değiskenler_int3_4islem\Değiskenler_int3_4islem\bin\Debug\Değiskenler_int3_4islem.exe.config
+C:\Users\merto\Desktop\Csproject\Değiskenler_int3_4islem\Değiskenler_int3_4islem\bin\Debug\Değiskenler_int3_4islem.exe
+C:\Users\merto\Desktop\Csproject\Değiskenler_int3_4islem\Değiskenler_int3_4islem\bin\Debug\Değiskenler_int3_4islem.pdb
+C:\Users\merto\Desktop\Csproject\Değiskenler_int3_4islem\Değiskenler_int3_4islem\obj\Debug\Değiskenler_int3_4islem.csprojAssemblyReference.cache
+C:\Users\merto\Desktop\Csproject\Değiskenler_int3_4islem\Değiskenler_int3_4islem\obj\Debug\Değiskenler_int3_4islem.Form1.resources
+C:\Users\merto\Desktop\Csproject\Değiskenler_int3_4islem\Değiskenler_int3_4islem\obj\Debug\Değiskenler_int3_4islem.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Değiskenler_int3_4islem\Değiskenler_int3_4islem\obj\Debug\Değiskenler_int3_4islem.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Değiskenler_int3_4islem\Değiskenler_int3_4islem\obj\Debug\Değiskenler_int3_4islem.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Değiskenler_int3_4islem\Değiskenler_int3_4islem\obj\Debug\Değiskenler_int3_4islem.exe
+C:\Users\merto\Desktop\Csproject\Değiskenler_int3_4islem\Değiskenler_int3_4islem\obj\Debug\Değiskenler_int3_4islem.pdb

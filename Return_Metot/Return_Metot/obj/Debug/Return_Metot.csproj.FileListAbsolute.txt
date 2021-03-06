@@ -1,0 +1,9 @@
+C:\Users\merto\Desktop\Csproject\Return_Metot\Return_Metot\bin\Debug\Return_Metot.exe.config
+C:\Users\merto\Desktop\Csproject\Return_Metot\Return_Metot\bin\Debug\Return_Metot.exe
+C:\Users\merto\Desktop\Csproject\Return_Metot\Return_Metot\bin\Debug\Return_Metot.pdb
+C:\Users\merto\Desktop\Csproject\Return_Metot\Return_Metot\obj\Debug\Return_Metot.Form1.resources
+C:\Users\merto\Desktop\Csproject\Return_Metot\Return_Metot\obj\Debug\Return_Metot.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Return_Metot\Return_Metot\obj\Debug\Return_Metot.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Return_Metot\Return_Metot\obj\Debug\Return_Metot.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Return_Metot\Return_Metot\obj\Debug\Return_Metot.exe
+C:\Users\merto\Desktop\Csproject\Return_Metot\Return_Metot\obj\Debug\Return_Metot.pdb

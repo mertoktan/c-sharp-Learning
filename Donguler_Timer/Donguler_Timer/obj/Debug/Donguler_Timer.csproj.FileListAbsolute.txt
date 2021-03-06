@@ -1,0 +1,10 @@
+C:\Users\merto\Desktop\Csproject\Donguler_Timer\Donguler_Timer\bin\Debug\Donguler_Timer.exe.config
+C:\Users\merto\Desktop\Csproject\Donguler_Timer\Donguler_Timer\bin\Debug\Donguler_Timer.exe
+C:\Users\merto\Desktop\Csproject\Donguler_Timer\Donguler_Timer\bin\Debug\Donguler_Timer.pdb
+C:\Users\merto\Desktop\Csproject\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.csprojAssemblyReference.cache
+C:\Users\merto\Desktop\Csproject\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.Form1.resources
+C:\Users\merto\Desktop\Csproject\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.exe
+C:\Users\merto\Desktop\Csproject\Donguler_Timer\Donguler_Timer\obj\Debug\Donguler_Timer.pdb

@@ -1,0 +1,9 @@
+C:\Users\merto\Desktop\Csproject\Foreach\Foreach\bin\Debug\Foreach.exe.config
+C:\Users\merto\Desktop\Csproject\Foreach\Foreach\bin\Debug\Foreach.exe
+C:\Users\merto\Desktop\Csproject\Foreach\Foreach\bin\Debug\Foreach.pdb
+C:\Users\merto\Desktop\Csproject\Foreach\Foreach\obj\Debug\Foreach.Form1.resources
+C:\Users\merto\Desktop\Csproject\Foreach\Foreach\obj\Debug\Foreach.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Foreach\Foreach\obj\Debug\Foreach.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Foreach\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Foreach\Foreach\obj\Debug\Foreach.exe
+C:\Users\merto\Desktop\Csproject\Foreach\Foreach\obj\Debug\Foreach.pdb

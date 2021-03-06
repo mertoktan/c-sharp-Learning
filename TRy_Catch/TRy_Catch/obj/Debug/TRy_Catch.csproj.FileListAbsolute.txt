@@ -1,0 +1,10 @@
+C:\Users\merto\Desktop\Csproject\TRy_Catch\TRy_Catch\bin\Debug\TRy_Catch.exe.config
+C:\Users\merto\Desktop\Csproject\TRy_Catch\TRy_Catch\bin\Debug\TRy_Catch.exe
+C:\Users\merto\Desktop\Csproject\TRy_Catch\TRy_Catch\bin\Debug\TRy_Catch.pdb
+C:\Users\merto\Desktop\Csproject\TRy_Catch\TRy_Catch\obj\Debug\TRy_Catch.csprojAssemblyReference.cache
+C:\Users\merto\Desktop\Csproject\TRy_Catch\TRy_Catch\obj\Debug\TRy_Catch.Form1.resources
+C:\Users\merto\Desktop\Csproject\TRy_Catch\TRy_Catch\obj\Debug\TRy_Catch.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\TRy_Catch\TRy_Catch\obj\Debug\TRy_Catch.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\TRy_Catch\TRy_Catch\obj\Debug\TRy_Catch.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\TRy_Catch\TRy_Catch\obj\Debug\TRy_Catch.exe
+C:\Users\merto\Desktop\Csproject\TRy_Catch\TRy_Catch\obj\Debug\TRy_Catch.pdb

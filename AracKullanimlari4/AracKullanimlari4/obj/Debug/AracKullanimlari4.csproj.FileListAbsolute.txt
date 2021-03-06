@@ -1,0 +1,9 @@
+C:\Users\merto\Desktop\Csproject\AracKullanimlari4\AracKullanimlari4\bin\Debug\AracKullanimlari4.exe.config
+C:\Users\merto\Desktop\Csproject\AracKullanimlari4\AracKullanimlari4\bin\Debug\AracKullanimlari4.exe
+C:\Users\merto\Desktop\Csproject\AracKullanimlari4\AracKullanimlari4\bin\Debug\AracKullanimlari4.pdb
+C:\Users\merto\Desktop\Csproject\AracKullanimlari4\AracKullanimlari4\obj\Debug\AracKullanimlari4.Form1.resources
+C:\Users\merto\Desktop\Csproject\AracKullanimlari4\AracKullanimlari4\obj\Debug\AracKullanimlari4.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\AracKullanimlari4\AracKullanimlari4\obj\Debug\AracKullanimlari4.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\AracKullanimlari4\AracKullanimlari4\obj\Debug\AracKullanimlari4.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\AracKullanimlari4\AracKullanimlari4\obj\Debug\AracKullanimlari4.exe
+C:\Users\merto\Desktop\Csproject\AracKullanimlari4\AracKullanimlari4\obj\Debug\AracKullanimlari4.pdb

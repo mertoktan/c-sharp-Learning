@@ -1,0 +1,9 @@
+C:\Users\merto\Desktop\Csproject\Try_Catch_2\Try_Catch_2\bin\Debug\Try_Catch_2.exe.config
+C:\Users\merto\Desktop\Csproject\Try_Catch_2\Try_Catch_2\bin\Debug\Try_Catch_2.exe
+C:\Users\merto\Desktop\Csproject\Try_Catch_2\Try_Catch_2\bin\Debug\Try_Catch_2.pdb
+C:\Users\merto\Desktop\Csproject\Try_Catch_2\Try_Catch_2\obj\Debug\Try_Catch_2.Form1.resources
+C:\Users\merto\Desktop\Csproject\Try_Catch_2\Try_Catch_2\obj\Debug\Try_Catch_2.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Try_Catch_2\Try_Catch_2\obj\Debug\Try_Catch_2.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Try_Catch_2\Try_Catch_2\obj\Debug\Try_Catch_2.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Try_Catch_2\Try_Catch_2\obj\Debug\Try_Catch_2.exe
+C:\Users\merto\Desktop\Csproject\Try_Catch_2\Try_Catch_2\obj\Debug\Try_Catch_2.pdb

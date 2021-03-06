@@ -1,0 +1,9 @@
+C:\Users\merto\Desktop\Csproject\Donguler_Pratik\Donguler_Pratik\bin\Debug\Donguler_Pratik.exe.config
+C:\Users\merto\Desktop\Csproject\Donguler_Pratik\Donguler_Pratik\bin\Debug\Donguler_Pratik.exe
+C:\Users\merto\Desktop\Csproject\Donguler_Pratik\Donguler_Pratik\bin\Debug\Donguler_Pratik.pdb
+C:\Users\merto\Desktop\Csproject\Donguler_Pratik\Donguler_Pratik\obj\Debug\Donguler_Pratik.Form1.resources
+C:\Users\merto\Desktop\Csproject\Donguler_Pratik\Donguler_Pratik\obj\Debug\Donguler_Pratik.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Donguler_Pratik\Donguler_Pratik\obj\Debug\Donguler_Pratik.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Donguler_Pratik\Donguler_Pratik\obj\Debug\Donguler_Pratik.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Donguler_Pratik\Donguler_Pratik\obj\Debug\Donguler_Pratik.exe
+C:\Users\merto\Desktop\Csproject\Donguler_Pratik\Donguler_Pratik\obj\Debug\Donguler_Pratik.pdb

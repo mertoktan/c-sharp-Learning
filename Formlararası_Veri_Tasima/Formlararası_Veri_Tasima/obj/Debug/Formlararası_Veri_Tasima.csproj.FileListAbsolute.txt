@@ -1,0 +1,10 @@
+C:\Users\merto\Desktop\Csproject\Formlararası_Veri_Tasima\Formlararası_Veri_Tasima\bin\Debug\Formlararası_Veri_Tasima.exe.config
+C:\Users\merto\Desktop\Csproject\Formlararası_Veri_Tasima\Formlararası_Veri_Tasima\bin\Debug\Formlararası_Veri_Tasima.exe
+C:\Users\merto\Desktop\Csproject\Formlararası_Veri_Tasima\Formlararası_Veri_Tasima\bin\Debug\Formlararası_Veri_Tasima.pdb
+C:\Users\merto\Desktop\Csproject\Formlararası_Veri_Tasima\Formlararası_Veri_Tasima\obj\Debug\Formlararası_Veri_Tasima.Form1.resources
+C:\Users\merto\Desktop\Csproject\Formlararası_Veri_Tasima\Formlararası_Veri_Tasima\obj\Debug\Formlararası_Veri_Tasima.Form2.resources
+C:\Users\merto\Desktop\Csproject\Formlararası_Veri_Tasima\Formlararası_Veri_Tasima\obj\Debug\Formlararası_Veri_Tasima.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Formlararası_Veri_Tasima\Formlararası_Veri_Tasima\obj\Debug\Formlararası_Veri_Tasima.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Formlararası_Veri_Tasima\Formlararası_Veri_Tasima\obj\Debug\Formlararası_Veri_Tasima.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Formlararası_Veri_Tasima\Formlararası_Veri_Tasima\obj\Debug\Formlararası_Veri_Tasima.exe
+C:\Users\merto\Desktop\Csproject\Formlararası_Veri_Tasima\Formlararası_Veri_Tasima\obj\Debug\Formlararası_Veri_Tasima.pdb

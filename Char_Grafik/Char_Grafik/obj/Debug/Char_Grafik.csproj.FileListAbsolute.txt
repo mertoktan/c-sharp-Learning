@@ -1,0 +1,10 @@
+C:\Users\merto\Desktop\Csproject\Char_Grafik\Char_Grafik\bin\Debug\Char_Grafik.exe.config
+C:\Users\merto\Desktop\Csproject\Char_Grafik\Char_Grafik\bin\Debug\Char_Grafik.exe
+C:\Users\merto\Desktop\Csproject\Char_Grafik\Char_Grafik\bin\Debug\Char_Grafik.pdb
+C:\Users\merto\Desktop\Csproject\Char_Grafik\Char_Grafik\obj\Debug\Char_Grafik.csprojAssemblyReference.cache
+C:\Users\merto\Desktop\Csproject\Char_Grafik\Char_Grafik\obj\Debug\Char_Grafik.Form1.resources
+C:\Users\merto\Desktop\Csproject\Char_Grafik\Char_Grafik\obj\Debug\Char_Grafik.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Char_Grafik\Char_Grafik\obj\Debug\Char_Grafik.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Char_Grafik\Char_Grafik\obj\Debug\Char_Grafik.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Char_Grafik\Char_Grafik\obj\Debug\Char_Grafik.exe
+C:\Users\merto\Desktop\Csproject\Char_Grafik\Char_Grafik\obj\Debug\Char_Grafik.pdb

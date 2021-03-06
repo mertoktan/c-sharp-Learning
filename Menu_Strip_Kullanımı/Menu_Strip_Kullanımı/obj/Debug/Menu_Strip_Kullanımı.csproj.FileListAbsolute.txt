@@ -1,0 +1,10 @@
+C:\Users\merto\Desktop\Csproject\Menu_Strip_Kullanımı\Menu_Strip_Kullanımı\obj\Debug\Menu_Strip_Kullanımı.csprojAssemblyReference.cache
+C:\Users\merto\Desktop\Csproject\Menu_Strip_Kullanımı\Menu_Strip_Kullanımı\obj\Debug\Menu_Strip_Kullanımı.Form1.resources
+C:\Users\merto\Desktop\Csproject\Menu_Strip_Kullanımı\Menu_Strip_Kullanımı\obj\Debug\Menu_Strip_Kullanımı.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Menu_Strip_Kullanımı\Menu_Strip_Kullanımı\obj\Debug\Menu_Strip_Kullanımı.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Menu_Strip_Kullanımı\Menu_Strip_Kullanımı\obj\Debug\Menu_Strip_Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Menu_Strip_Kullanımı\Menu_Strip_Kullanımı\bin\Debug\Menu_Strip_Kullanımı.exe.config
+C:\Users\merto\Desktop\Csproject\Menu_Strip_Kullanımı\Menu_Strip_Kullanımı\bin\Debug\Menu_Strip_Kullanımı.exe
+C:\Users\merto\Desktop\Csproject\Menu_Strip_Kullanımı\Menu_Strip_Kullanımı\bin\Debug\Menu_Strip_Kullanımı.pdb
+C:\Users\merto\Desktop\Csproject\Menu_Strip_Kullanımı\Menu_Strip_Kullanımı\obj\Debug\Menu_Strip_Kullanımı.exe
+C:\Users\merto\Desktop\Csproject\Menu_Strip_Kullanımı\Menu_Strip_Kullanımı\obj\Debug\Menu_Strip_Kullanımı.pdb

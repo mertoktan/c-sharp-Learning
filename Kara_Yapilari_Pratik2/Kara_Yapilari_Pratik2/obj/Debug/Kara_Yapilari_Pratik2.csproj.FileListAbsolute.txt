@@ -1,0 +1,9 @@
+C:\Users\merto\Desktop\Csproject\Kara_Yapilari_Pratik2\Kara_Yapilari_Pratik2\bin\Debug\Kara_Yapilari_Pratik2.exe.config
+C:\Users\merto\Desktop\Csproject\Kara_Yapilari_Pratik2\Kara_Yapilari_Pratik2\bin\Debug\Kara_Yapilari_Pratik2.exe
+C:\Users\merto\Desktop\Csproject\Kara_Yapilari_Pratik2\Kara_Yapilari_Pratik2\bin\Debug\Kara_Yapilari_Pratik2.pdb
+C:\Users\merto\Desktop\Csproject\Kara_Yapilari_Pratik2\Kara_Yapilari_Pratik2\obj\Debug\Kara_Yapilari_Pratik2.Form1.resources
+C:\Users\merto\Desktop\Csproject\Kara_Yapilari_Pratik2\Kara_Yapilari_Pratik2\obj\Debug\Kara_Yapilari_Pratik2.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Kara_Yapilari_Pratik2\Kara_Yapilari_Pratik2\obj\Debug\Kara_Yapilari_Pratik2.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Kara_Yapilari_Pratik2\Kara_Yapilari_Pratik2\obj\Debug\Kara_Yapilari_Pratik2.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Kara_Yapilari_Pratik2\Kara_Yapilari_Pratik2\obj\Debug\Kara_Yapilari_Pratik2.exe
+C:\Users\merto\Desktop\Csproject\Kara_Yapilari_Pratik2\Kara_Yapilari_Pratik2\obj\Debug\Kara_Yapilari_Pratik2.pdb

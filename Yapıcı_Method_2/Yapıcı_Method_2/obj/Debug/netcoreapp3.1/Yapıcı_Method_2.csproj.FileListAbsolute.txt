@@ -1,0 +1,12 @@
+C:\Users\merto\Desktop\Csproject\Yapıcı_Method_2\Yapıcı_Method_2\bin\Debug\netcoreapp3.1\Yapıcı_Method_2.exe
+C:\Users\merto\Desktop\Csproject\Yapıcı_Method_2\Yapıcı_Method_2\bin\Debug\netcoreapp3.1\Yapıcı_Method_2.deps.json
+C:\Users\merto\Desktop\Csproject\Yapıcı_Method_2\Yapıcı_Method_2\bin\Debug\netcoreapp3.1\Yapıcı_Method_2.runtimeconfig.json
+C:\Users\merto\Desktop\Csproject\Yapıcı_Method_2\Yapıcı_Method_2\bin\Debug\netcoreapp3.1\Yapıcı_Method_2.runtimeconfig.dev.json
+C:\Users\merto\Desktop\Csproject\Yapıcı_Method_2\Yapıcı_Method_2\bin\Debug\netcoreapp3.1\Yapıcı_Method_2.dll
+C:\Users\merto\Desktop\Csproject\Yapıcı_Method_2\Yapıcı_Method_2\bin\Debug\netcoreapp3.1\Yapıcı_Method_2.pdb
+C:\Users\merto\Desktop\Csproject\Yapıcı_Method_2\Yapıcı_Method_2\obj\Debug\netcoreapp3.1\Yapıcı_Method_2.AssemblyInfoInputs.cache
+C:\Users\merto\Desktop\Csproject\Yapıcı_Method_2\Yapıcı_Method_2\obj\Debug\netcoreapp3.1\Yapıcı_Method_2.AssemblyInfo.cs
+C:\Users\merto\Desktop\Csproject\Yapıcı_Method_2\Yapıcı_Method_2\obj\Debug\netcoreapp3.1\Yapıcı_Method_2.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Yapıcı_Method_2\Yapıcı_Method_2\obj\Debug\netcoreapp3.1\Yapıcı_Method_2.dll
+C:\Users\merto\Desktop\Csproject\Yapıcı_Method_2\Yapıcı_Method_2\obj\Debug\netcoreapp3.1\Yapıcı_Method_2.pdb
+C:\Users\merto\Desktop\Csproject\Yapıcı_Method_2\Yapıcı_Method_2\obj\Debug\netcoreapp3.1\Yapıcı_Method_2.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Users\merto\Desktop\Csproject\NKatmanlıMimari\NKatmanlıMimari\bin\Debug\NKatmanlıMimari.exe.config
+C:\Users\merto\Desktop\Csproject\NKatmanlıMimari\NKatmanlıMimari\bin\Debug\NKatmanlıMimari.exe
+C:\Users\merto\Desktop\Csproject\NKatmanlıMimari\NKatmanlıMimari\bin\Debug\NKatmanlıMimari.pdb
+C:\Users\merto\Desktop\Csproject\NKatmanlıMimari\NKatmanlıMimari\bin\Debug\DataAccessLayer.dll
+C:\Users\merto\Desktop\Csproject\NKatmanlıMimari\NKatmanlıMimari\bin\Debug\EntityLayer.dll
+C:\Users\merto\Desktop\Csproject\NKatmanlıMimari\NKatmanlıMimari\bin\Debug\LogicLayer.dll
+C:\Users\merto\Desktop\Csproject\NKatmanlıMimari\NKatmanlıMimari\bin\Debug\DataAccessLayer.pdb
+C:\Users\merto\Desktop\Csproject\NKatmanlıMimari\NKatmanlıMimari\bin\Debug\EntityLayer.pdb
+C:\Users\merto\Desktop\Csproject\NKatmanlıMimari\NKatmanlıMimari\bin\Debug\LogicLayer.pdb
+C:\Users\merto\Desktop\Csproject\NKatmanlıMimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.csprojAssemblyReference.cache
+C:\Users\merto\Desktop\Csproject\NKatmanlıMimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.Form1.resources
+C:\Users\merto\Desktop\Csproject\NKatmanlıMimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\NKatmanlıMimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\NKatmanlıMimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\NKatmanlıMimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.csproj.CopyComplete
+C:\Users\merto\Desktop\Csproject\NKatmanlıMimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.exe
+C:\Users\merto\Desktop\Csproject\NKatmanlıMimari\NKatmanlıMimari\obj\Debug\NKatmanlıMimari.pdb

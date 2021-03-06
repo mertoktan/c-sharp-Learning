@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Değiskenler_int2", "Değiskenler_int2\Değiskenler_int2.csproj", "{1F404B40-375E-44DF-BC41-732923986B07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F404B40-375E-44DF-BC41-732923986B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F404B40-375E-44DF-BC41-732923986B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F404B40-375E-44DF-BC41-732923986B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F404B40-375E-44DF-BC41-732923986B07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC8E09E4-B422-4BAB-BF5A-A9795D357DC7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\merto\Desktop\Csproject\Donguler_Karar_Yapilari\Donguler_Karar_Yapilari\bin\Debug\Donguler_Karar_Yapilari.exe.config
+C:\Users\merto\Desktop\Csproject\Donguler_Karar_Yapilari\Donguler_Karar_Yapilari\bin\Debug\Donguler_Karar_Yapilari.exe
+C:\Users\merto\Desktop\Csproject\Donguler_Karar_Yapilari\Donguler_Karar_Yapilari\bin\Debug\Donguler_Karar_Yapilari.pdb
+C:\Users\merto\Desktop\Csproject\Donguler_Karar_Yapilari\Donguler_Karar_Yapilari\obj\Debug\Donguler_Karar_Yapilari.Form1.resources
+C:\Users\merto\Desktop\Csproject\Donguler_Karar_Yapilari\Donguler_Karar_Yapilari\obj\Debug\Donguler_Karar_Yapilari.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Donguler_Karar_Yapilari\Donguler_Karar_Yapilari\obj\Debug\Donguler_Karar_Yapilari.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Donguler_Karar_Yapilari\Donguler_Karar_Yapilari\obj\Debug\Donguler_Karar_Yapilari.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Donguler_Karar_Yapilari\Donguler_Karar_Yapilari\obj\Debug\Donguler_Karar_Yapilari.exe
+C:\Users\merto\Desktop\Csproject\Donguler_Karar_Yapilari\Donguler_Karar_Yapilari\obj\Debug\Donguler_Karar_Yapilari.pdb

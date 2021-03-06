@@ -1,0 +1,9 @@
+C:\Users\merto\Desktop\Csproject\Dizi_Listeleme\Dizi_Listeleme\bin\Debug\Dizi_Listeleme.exe.config
+C:\Users\merto\Desktop\Csproject\Dizi_Listeleme\Dizi_Listeleme\bin\Debug\Dizi_Listeleme.exe
+C:\Users\merto\Desktop\Csproject\Dizi_Listeleme\Dizi_Listeleme\bin\Debug\Dizi_Listeleme.pdb
+C:\Users\merto\Desktop\Csproject\Dizi_Listeleme\Dizi_Listeleme\obj\Debug\Dizi_Listeleme.Form1.resources
+C:\Users\merto\Desktop\Csproject\Dizi_Listeleme\Dizi_Listeleme\obj\Debug\Dizi_Listeleme.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Dizi_Listeleme\Dizi_Listeleme\obj\Debug\Dizi_Listeleme.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Dizi_Listeleme\Dizi_Listeleme\obj\Debug\Dizi_Listeleme.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Dizi_Listeleme\Dizi_Listeleme\obj\Debug\Dizi_Listeleme.exe
+C:\Users\merto\Desktop\Csproject\Dizi_Listeleme\Dizi_Listeleme\obj\Debug\Dizi_Listeleme.pdb

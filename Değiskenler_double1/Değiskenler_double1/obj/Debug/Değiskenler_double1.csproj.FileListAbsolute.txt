@@ -1,0 +1,10 @@
+C:\Users\merto\Desktop\Csproject\Değiskenler_double1\Değiskenler_double1\bin\Debug\Değiskenler_double1.exe.config
+C:\Users\merto\Desktop\Csproject\Değiskenler_double1\Değiskenler_double1\bin\Debug\Değiskenler_double1.exe
+C:\Users\merto\Desktop\Csproject\Değiskenler_double1\Değiskenler_double1\bin\Debug\Değiskenler_double1.pdb
+C:\Users\merto\Desktop\Csproject\Değiskenler_double1\Değiskenler_double1\obj\Debug\Değiskenler_double1.Form1.resources
+C:\Users\merto\Desktop\Csproject\Değiskenler_double1\Değiskenler_double1\obj\Debug\Değiskenler_double1.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Değiskenler_double1\Değiskenler_double1\obj\Debug\Değiskenler_double1.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Değiskenler_double1\Değiskenler_double1\obj\Debug\Değiskenler_double1.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Değiskenler_double1\Değiskenler_double1\obj\Debug\Değiskenler_double1.exe
+C:\Users\merto\Desktop\Csproject\Değiskenler_double1\Değiskenler_double1\obj\Debug\Değiskenler_double1.pdb
+C:\Users\merto\Desktop\Csproject\Değiskenler_double1\Değiskenler_double1\obj\Debug\Değiskenler_double1.csprojAssemblyReference.cache

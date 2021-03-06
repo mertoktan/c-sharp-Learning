@@ -1,0 +1,10 @@
+C:\Users\merto\Desktop\Csproject\Arac_Kullanimlari5_Proje1\Arac_Kullanimlari5_Proje1\bin\Debug\Arac_Kullanimlari5_Proje1.exe.config
+C:\Users\merto\Desktop\Csproject\Arac_Kullanimlari5_Proje1\Arac_Kullanimlari5_Proje1\bin\Debug\Arac_Kullanimlari5_Proje1.exe
+C:\Users\merto\Desktop\Csproject\Arac_Kullanimlari5_Proje1\Arac_Kullanimlari5_Proje1\bin\Debug\Arac_Kullanimlari5_Proje1.pdb
+C:\Users\merto\Desktop\Csproject\Arac_Kullanimlari5_Proje1\Arac_Kullanimlari5_Proje1\obj\Debug\Arac_Kullanimlari5_Proje1.csprojAssemblyReference.cache
+C:\Users\merto\Desktop\Csproject\Arac_Kullanimlari5_Proje1\Arac_Kullanimlari5_Proje1\obj\Debug\Arac_Kullanimlari5_Proje1.Form1.resources
+C:\Users\merto\Desktop\Csproject\Arac_Kullanimlari5_Proje1\Arac_Kullanimlari5_Proje1\obj\Debug\Arac_Kullanimlari5_Proje1.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Arac_Kullanimlari5_Proje1\Arac_Kullanimlari5_Proje1\obj\Debug\Arac_Kullanimlari5_Proje1.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Arac_Kullanimlari5_Proje1\Arac_Kullanimlari5_Proje1\obj\Debug\Arac_Kullanimlari5_Proje1.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Arac_Kullanimlari5_Proje1\Arac_Kullanimlari5_Proje1\obj\Debug\Arac_Kullanimlari5_Proje1.exe
+C:\Users\merto\Desktop\Csproject\Arac_Kullanimlari5_Proje1\Arac_Kullanimlari5_Proje1\obj\Debug\Arac_Kullanimlari5_Proje1.pdb

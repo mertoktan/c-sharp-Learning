@@ -1,0 +1,16 @@
+C:\Users\merto\Desktop\Csproject\eOkul_Proje\eOkul_Proje\bin\Debug\eOkul_Proje.exe.config
+C:\Users\merto\Desktop\Csproject\eOkul_Proje\eOkul_Proje\bin\Debug\eOkul_Proje.exe
+C:\Users\merto\Desktop\Csproject\eOkul_Proje\eOkul_Proje\bin\Debug\eOkul_Proje.pdb
+C:\Users\merto\Desktop\Csproject\eOkul_Proje\eOkul_Proje\obj\Debug\eOkul_Proje.csprojAssemblyReference.cache
+C:\Users\merto\Desktop\Csproject\eOkul_Proje\eOkul_Proje\obj\Debug\eOkul_Proje.Form1.resources
+C:\Users\merto\Desktop\Csproject\eOkul_Proje\eOkul_Proje\obj\Debug\eOkul_Proje.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\eOkul_Proje\eOkul_Proje\obj\Debug\eOkul_Proje.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\eOkul_Proje\eOkul_Proje\obj\Debug\eOkul_Proje.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\eOkul_Proje\eOkul_Proje\obj\Debug\eOkul_Proje.exe
+C:\Users\merto\Desktop\Csproject\eOkul_Proje\eOkul_Proje\obj\Debug\eOkul_Proje.pdb
+C:\Users\merto\Desktop\Csproject\eOkul_Proje\eOkul_Proje\obj\Debug\eOkul_Proje.frm_Ogrencınot.resources
+C:\Users\merto\Desktop\Csproject\eOkul_Proje\eOkul_Proje\obj\Debug\eOkul_Proje.Frm_Ogretmen.resources
+C:\Users\merto\Desktop\Csproject\eOkul_Proje\eOkul_Proje\obj\Debug\eOkul_Proje.FrmKulüp.resources
+C:\Users\merto\Desktop\Csproject\eOkul_Proje\eOkul_Proje\obj\Debug\eOkul_Proje.FrmDersler.resources
+C:\Users\merto\Desktop\Csproject\eOkul_Proje\eOkul_Proje\obj\Debug\eOkul_Proje.FrmOgrenci.resources
+C:\Users\merto\Desktop\Csproject\eOkul_Proje\eOkul_Proje\obj\Debug\eOkul_Proje.FrmSınavNot.resources

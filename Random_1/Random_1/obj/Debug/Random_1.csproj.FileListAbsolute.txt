@@ -1,0 +1,10 @@
+C:\Users\merto\Desktop\Csproject\Random_1\Random_1\bin\Debug\Random_1.exe.config
+C:\Users\merto\Desktop\Csproject\Random_1\Random_1\bin\Debug\Random_1.exe
+C:\Users\merto\Desktop\Csproject\Random_1\Random_1\bin\Debug\Random_1.pdb
+C:\Users\merto\Desktop\Csproject\Random_1\Random_1\obj\Debug\Random_1.Form1.resources
+C:\Users\merto\Desktop\Csproject\Random_1\Random_1\obj\Debug\Random_1.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Random_1\Random_1\obj\Debug\Random_1.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Random_1\Random_1\obj\Debug\Random_1.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Random_1\Random_1\obj\Debug\Random_1.exe
+C:\Users\merto\Desktop\Csproject\Random_1\Random_1\obj\Debug\Random_1.pdb
+C:\Users\merto\Desktop\Csproject\Random_1\Random_1\obj\Debug\Random_1.csprojAssemblyReference.cache

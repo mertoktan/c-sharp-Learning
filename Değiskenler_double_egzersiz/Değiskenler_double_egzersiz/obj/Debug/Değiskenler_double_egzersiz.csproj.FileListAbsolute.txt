@@ -1,0 +1,9 @@
+C:\Users\merto\Desktop\Csproject\Değiskenler_double_egzersiz\Değiskenler_double_egzersiz\bin\Debug\Değiskenler_double_egzersiz.exe.config
+C:\Users\merto\Desktop\Csproject\Değiskenler_double_egzersiz\Değiskenler_double_egzersiz\bin\Debug\Değiskenler_double_egzersiz.exe
+C:\Users\merto\Desktop\Csproject\Değiskenler_double_egzersiz\Değiskenler_double_egzersiz\bin\Debug\Değiskenler_double_egzersiz.pdb
+C:\Users\merto\Desktop\Csproject\Değiskenler_double_egzersiz\Değiskenler_double_egzersiz\obj\Debug\Değiskenler_double_egzersiz.Form1.resources
+C:\Users\merto\Desktop\Csproject\Değiskenler_double_egzersiz\Değiskenler_double_egzersiz\obj\Debug\Değiskenler_double_egzersiz.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Değiskenler_double_egzersiz\Değiskenler_double_egzersiz\obj\Debug\Değiskenler_double_egzersiz.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Değiskenler_double_egzersiz\Değiskenler_double_egzersiz\obj\Debug\Değiskenler_double_egzersiz.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Değiskenler_double_egzersiz\Değiskenler_double_egzersiz\obj\Debug\Değiskenler_double_egzersiz.exe
+C:\Users\merto\Desktop\Csproject\Değiskenler_double_egzersiz\Değiskenler_double_egzersiz\obj\Debug\Değiskenler_double_egzersiz.pdb

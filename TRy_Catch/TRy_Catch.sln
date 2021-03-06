@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRy_Catch", "TRy_Catch\TRy_Catch.csproj", "{88BDD11F-0F86-46CE-84B8-10D4602C4757}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88BDD11F-0F86-46CE-84B8-10D4602C4757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88BDD11F-0F86-46CE-84B8-10D4602C4757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88BDD11F-0F86-46CE-84B8-10D4602C4757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88BDD11F-0F86-46CE-84B8-10D4602C4757}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {733A0CCF-4073-438E-BCE4-B0F00A2F5702}
+	EndGlobalSection
+EndGlobal

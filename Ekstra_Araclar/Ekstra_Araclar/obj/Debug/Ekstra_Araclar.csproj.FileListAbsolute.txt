@@ -1,0 +1,9 @@
+C:\Users\merto\Desktop\Csproject\Ekstra_Araclar\Ekstra_Araclar\bin\Debug\Ekstra_Araclar.exe.config
+C:\Users\merto\Desktop\Csproject\Ekstra_Araclar\Ekstra_Araclar\bin\Debug\Ekstra_Araclar.exe
+C:\Users\merto\Desktop\Csproject\Ekstra_Araclar\Ekstra_Araclar\bin\Debug\Ekstra_Araclar.pdb
+C:\Users\merto\Desktop\Csproject\Ekstra_Araclar\Ekstra_Araclar\obj\Debug\Ekstra_Araclar.Form1.resources
+C:\Users\merto\Desktop\Csproject\Ekstra_Araclar\Ekstra_Araclar\obj\Debug\Ekstra_Araclar.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Ekstra_Araclar\Ekstra_Araclar\obj\Debug\Ekstra_Araclar.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Ekstra_Araclar\Ekstra_Araclar\obj\Debug\Ekstra_Araclar.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Ekstra_Araclar\Ekstra_Araclar\obj\Debug\Ekstra_Araclar.exe
+C:\Users\merto\Desktop\Csproject\Ekstra_Araclar\Ekstra_Araclar\obj\Debug\Ekstra_Araclar.pdb

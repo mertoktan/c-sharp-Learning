@@ -1,0 +1,9 @@
+C:\Users\merto\Desktop\Csproject\Değiskenler_int2\Değiskenler_int2\bin\Debug\Değiskenler_int2.exe.config
+C:\Users\merto\Desktop\Csproject\Değiskenler_int2\Değiskenler_int2\bin\Debug\Değiskenler_int2.exe
+C:\Users\merto\Desktop\Csproject\Değiskenler_int2\Değiskenler_int2\bin\Debug\Değiskenler_int2.pdb
+C:\Users\merto\Desktop\Csproject\Değiskenler_int2\Değiskenler_int2\obj\Debug\Değiskenler_int2.Form1.resources
+C:\Users\merto\Desktop\Csproject\Değiskenler_int2\Değiskenler_int2\obj\Debug\Değiskenler_int2.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Değiskenler_int2\Değiskenler_int2\obj\Debug\Değiskenler_int2.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Değiskenler_int2\Değiskenler_int2\obj\Debug\Değiskenler_int2.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Değiskenler_int2\Değiskenler_int2\obj\Debug\Değiskenler_int2.exe
+C:\Users\merto\Desktop\Csproject\Değiskenler_int2\Değiskenler_int2\obj\Debug\Değiskenler_int2.pdb

@@ -1,0 +1,54 @@
+Personleid
+Ad
+Soyad
+Şehir
+Maaş
+Durum
+Meslek
+-------------------
+DATA TYPE
+
+bigint = aritmatik büyük tamsayılar için kullanılır
+binary()= ikilik tabandaki verileri tutar
+bit = mantıksal veri tipi.0 ve 1 veya true veya false tutar.
+char(kaç karakterlik veri girişi sağladığını belirtir.Eğer tam doldurmassan boşluk ile tamamlar.) = Sabit uzunluklu veriler için kullanılır.Ör=telefon no , tc no .
+	Sabir uzunluklu değilse char kullanmayın.
+date=saat ve uzun tarihler için.
+datetimeoffset=ülkeler arası saat farkını ortak paydada buluşturur.
+decimal(18,0)=ondalıklı veriler için kullanılır.double karşılığı
+		(virgülden önceki,virgülden sonrası).
+float = ondalıklı değerler için.
+geometry=açı derecelerini tutar.
+hierarchyid = alt katagörüleri için kullanılır.
+image=önemli.Resim gibi dosyaları tutar.Genelde dosya yolu kullanılır.
+money=Para birimleri.forex ve dövizciler kullanır.
+
+	başında n harfi bulunan veri tipleri latin alfabesi dışındaki diller için kullanılır.
+real=gerçel sayılar için kullanılır.
+smalldatetime=1900-2070 aralığı var tarih zaman formatı.
+smallint=int
+sql_variant=veri tipi bilinmeyen veriler için kullanılır.
+text=çok uzun metin değerleri için kullanılır.
+tinyint(0-256)=arası sayılar tam sayılar.
+uniqueidentifer=rastgele sayılar üretir..harf vb.
+varchar()=değişken uzunluklu karakterler için kullanılır.Ör == isim için kullanılır.
+
+
+DML
+**********************************
+-select(seç)
+-ınsert(ekle)
+-delete(sil)
+-uptade(güncelle)
+
+* (tamamını seç)
+From(Şu tablodan)
+Query(Sorgu anlamına gelir)
+
+-------
+şart ifadesi ===== where--ifin karşılığı
+and= ve     Or =veya
+
+'metinsel ifadeler tek tırnak'==! c # ta çift tırnak içinde yazılır ....
+
+Sqldatareader=veri okuyucu

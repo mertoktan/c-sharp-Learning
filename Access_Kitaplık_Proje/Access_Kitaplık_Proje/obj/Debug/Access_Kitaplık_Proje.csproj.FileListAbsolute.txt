@@ -1,0 +1,10 @@
+C:\Users\merto\Desktop\Csproject\Access_Kitaplık_Proje\Access_Kitaplık_Proje\bin\Debug\Access_Kitaplık_Proje.exe.config
+C:\Users\merto\Desktop\Csproject\Access_Kitaplık_Proje\Access_Kitaplık_Proje\bin\Debug\Access_Kitaplık_Proje.exe
+C:\Users\merto\Desktop\Csproject\Access_Kitaplık_Proje\Access_Kitaplık_Proje\bin\Debug\Access_Kitaplık_Proje.pdb
+C:\Users\merto\Desktop\Csproject\Access_Kitaplık_Proje\Access_Kitaplık_Proje\obj\Debug\Access_Kitaplık_Proje.csprojAssemblyReference.cache
+C:\Users\merto\Desktop\Csproject\Access_Kitaplık_Proje\Access_Kitaplık_Proje\obj\Debug\Access_Kitaplık_Proje.Form1.resources
+C:\Users\merto\Desktop\Csproject\Access_Kitaplık_Proje\Access_Kitaplık_Proje\obj\Debug\Access_Kitaplık_Proje.Properties.Resources.resources
+C:\Users\merto\Desktop\Csproject\Access_Kitaplık_Proje\Access_Kitaplık_Proje\obj\Debug\Access_Kitaplık_Proje.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Csproject\Access_Kitaplık_Proje\Access_Kitaplık_Proje\obj\Debug\Access_Kitaplık_Proje.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Csproject\Access_Kitaplık_Proje\Access_Kitaplık_Proje\obj\Debug\Access_Kitaplık_Proje.exe
+C:\Users\merto\Desktop\Csproject\Access_Kitaplık_Proje\Access_Kitaplık_Proje\obj\Debug\Access_Kitaplık_Proje.pdb
